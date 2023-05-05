@@ -1,6 +1,6 @@
 {
   "name": "rsec-basics",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "dist",
   "dependencies": {
     "@types/mysql": "^2.15.21",
