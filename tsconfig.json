@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "target": "es2022",
+    "moduleResolution": "node",
+    "watch": true,
+    "module": "es2022",
+    "declaration": false,
+    "esModuleInterop": true,
+    "strictPropertyInitialization": false,
+    "skipLibCheck": true,
+    "sourceMap": false,
+    "outDir": "dist",
+    "baseUrl": "src"
+  },
+  "include": ["src"]
+}
